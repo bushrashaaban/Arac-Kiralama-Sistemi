@@ -1,5 +1,5 @@
 -- Arac-Kiralama-Sistemi
-![Veri Tabanı Diyagramı](arac-diyagram)
+![Veri Tabanı Diyagramı](arac-diyagram.png)
 -- MS SQL Server kullanılarak geliştirilmiş, ilişkisel veri tabanı tasarımı içeren araç kiralama sistemi projesi.
 CREATE DATABASE Arac_kiralama_s;
 GO
